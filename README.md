@@ -1,4 +1,19 @@
-# Weather_Predictor
-The weather prediction project leveraging machine learning and Python aims to significantly enhance the precision and reliability of weather forecasts by utilizing the strengths of advanced machine learning algorithms. This initiative focuses on processing and analyzing extensive datasets that include historical weather records from the National Oceanic and Atmospheric Administration website. The data was from Laguardia Airport In Queens New York, I used this airport specifically so I can specify the area of the weather I would be predicting. With this data I integrating Python's comprehensive ecosystem, which includes Pandas for data manipulation, and Matplotlib for visualization, the project facilitates in-depth data analysis and model development.
+# Weather Prediction Project
 
-Here is the excel page with all the data from Laguardia Airport: [C:\Users\jmosc\Downloads\3588842.csv](https://1drv.ms/x/c/9e04c823a9430a8a/Ed-mQvqOIx1EhCOUZIkBtm4Bdz8ynpxR3Sm2GxffIiwzRg?e=ThXVgx)
+## Overview
+This weather prediction project leverages advanced machine learning algorithms and Python to significantly enhance the precision and reliability of weather forecasts. Focusing on a specific geographical location, the project aims to provide accurate weather predictions by processing and analyzing extensive datasets of historical weather records.
+
+## Data Source
+The historical weather data for this project was obtained from the National Oceanic and Atmospheric Administration (NOAA) website, specifically focusing on records from LaGuardia Airport in Queens, New York. This location was chosen deliberately to refine the area of weather prediction, providing targeted and relevant forecasting for the region.
+
+## Data Processing and Analysis
+Utilizing Python's robust ecosystem, the project employs:
+- **Pandas:** For efficient data manipulation and cleaning, enabling the handling of large datasets with ease.
+- **Matplotlib:** For data visualization, offering insights into the weather patterns through graphical representations.
+
+These tools collectively facilitate a comprehensive analysis of historical weather data, laying the groundwork for the development of a predictive model.
+
+## Project Structure
+- `data/`: Contains the historical weather dataset from LaGuardia Airport 
+- `notebooks/`: Jupyter notebooks detailing the data processing, exploratory data analysis, and model development phases.
+
